@@ -10,7 +10,9 @@ namespace Ejerc1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola");
+            Vehiculo vehiculo = new Vehiculo(1, "Aveo", "Chevrolet", 5000, 1500, 2017);
+            Console.WriteLine(vehiculo.ToString());
+            Console.ReadKey();
         }
     }
 }

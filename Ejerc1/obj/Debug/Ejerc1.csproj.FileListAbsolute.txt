@@ -1,0 +1,7 @@
+C:\Users\Dalky\Source\Repos\poo\Ejerc1\bin\Debug\Ejerc1.exe.config
+C:\Users\Dalky\Source\Repos\poo\Ejerc1\bin\Debug\Ejerc1.exe
+C:\Users\Dalky\Source\Repos\poo\Ejerc1\bin\Debug\Ejerc1.pdb
+C:\Users\Dalky\Source\Repos\poo\Ejerc1\obj\Debug\Ejerc1.csproj.AssemblyReference.cache
+C:\Users\Dalky\Source\Repos\poo\Ejerc1\obj\Debug\Ejerc1.csproj.CoreCompileInputs.cache
+C:\Users\Dalky\Source\Repos\poo\Ejerc1\obj\Debug\Ejerc1.exe
+C:\Users\Dalky\Source\Repos\poo\Ejerc1\obj\Debug\Ejerc1.pdb
