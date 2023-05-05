@@ -1,0 +1,7 @@
+C:\Users\Dalky\source\repos\poo\ejer2\bin\Debug\ejer2.exe.config
+C:\Users\Dalky\source\repos\poo\ejer2\bin\Debug\ejer2.exe
+C:\Users\Dalky\source\repos\poo\ejer2\bin\Debug\ejer2.pdb
+C:\Users\Dalky\source\repos\poo\ejer2\obj\Debug\ejer2.csproj.AssemblyReference.cache
+C:\Users\Dalky\source\repos\poo\ejer2\obj\Debug\ejer2.csproj.CoreCompileInputs.cache
+C:\Users\Dalky\source\repos\poo\ejer2\obj\Debug\ejer2.exe
+C:\Users\Dalky\source\repos\poo\ejer2\obj\Debug\ejer2.pdb
